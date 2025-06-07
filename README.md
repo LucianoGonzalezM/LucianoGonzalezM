@@ -7,14 +7,14 @@
 ---
 
 ### 🧑‍💻 Sobre mí
-- 🚀 Desarrollador web fullstack, con enfoque en **Angular, Firebase y Node.js**.
+- 🚀 Desarrollador web Front-end, con enfoque en **Angular, TypeScript y Javascript**.
 - 🎯 Apasionado por crear soluciones eficientes y modernas.
-- 🎓 Siempre aprendiendo algo nuevo sobre IA, backend y diseño UX/UI.
+- 🎓 Siempre aprendiendo algo nuevo sobre IA, Front, diseño UX/UI y mas tecnologias.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
-<img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,nodejs,firebase,mongodb,git,github,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,firebase,git,github,vscode,mysql,jquery,boostrap,java,c" alt="Tech Stack" />
 
 ---
 
