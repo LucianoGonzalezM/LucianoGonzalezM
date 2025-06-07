@@ -29,12 +29,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-gonzalez-marangoni-31b2ab224/)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucianoGonzalezM)
 
----
-
-### 💡 Frase que me inspira
-> *"El mejor momento para comenzar fue ayer. El segundo mejor momento es ahora."*
-
----
 
 <p align="center">
   ✨ Gracias por visitar mi perfil ✨
