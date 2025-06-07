@@ -26,7 +26,7 @@
 ---
 
 ### 🌐 Encuéntrame en
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-gonzalez-marangoni)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-121212?style=for-the-badge&logo=github&logoColor=white)](https://tuportfolio.com)
 
 ---
