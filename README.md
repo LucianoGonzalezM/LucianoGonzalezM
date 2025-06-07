@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas
-<img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,firebase,git,github,vscode,mysql,jquery,boostrap,java,c" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,firebase,git,github,vscode,mysql,jquery,java,c" alt="Tech Stack" />
 
 ---
 
