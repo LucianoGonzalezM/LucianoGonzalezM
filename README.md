@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mí
 - 🚀 Desarrollador web Front-end, con enfoque en **Angular, TypeScript y Javascript**.
 - 🎯 Apasionado por crear soluciones eficientes y modernas.
-- 🎓 Siempre aprendiendo algo nuevo sobre IA, Front, diseño UX/UI y mas tecnologias.
+- 🎓 Siempre aprendiendo algo nuevo sobre IA, Front, diseño y mas tecnologias.
 
 ---
 
